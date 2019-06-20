@@ -2,7 +2,7 @@
 
 Objective: An introduction to working with sensors and the Arduino Uno microcontroller
 
-Problem Statement: Use a float sensor to control and LED. Turn the LED on when the float sensor is in the upper position, and turn the LED off when the float sensor is in the lower position.
+Problem Statement: Use a float sensor to control an LED. Turn the LED on when the float sensor is in the upper position, and turn the LED off when the float sensor is in the lower position.
 
 Required Hardware: <br/>
 1.Arduino Uno <br/>
